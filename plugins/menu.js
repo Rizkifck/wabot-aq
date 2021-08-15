@@ -44,8 +44,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Follow IG rizkitirta99_
+│ https://instagram.com/rizkitirta99_
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
